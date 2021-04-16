@@ -1,0 +1,3 @@
+1. Usar un micro Mappeador yo uso Dapper 
+2. uso el driver de sqlite 
+paquetes en estes proyecto :  System.Data.SQLite.Core  Dapper

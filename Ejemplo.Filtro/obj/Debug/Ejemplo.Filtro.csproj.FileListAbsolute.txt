@@ -1,0 +1,16 @@
+C:\Users\WilmarArias\source\repos\Ejemplos\Ejemplo.Filtro\bin\Debug\main.db
+C:\Users\WilmarArias\source\repos\Ejemplos\Ejemplo.Filtro\bin\Debug\Ejemplo.Filtro.exe.config
+C:\Users\WilmarArias\source\repos\Ejemplos\Ejemplo.Filtro\bin\Debug\Ejemplo.Filtro.exe
+C:\Users\WilmarArias\source\repos\Ejemplos\Ejemplo.Filtro\bin\Debug\Ejemplo.Filtro.pdb
+C:\Users\WilmarArias\source\repos\Ejemplos\Ejemplo.Filtro\bin\Debug\Dapper.dll
+C:\Users\WilmarArias\source\repos\Ejemplos\Ejemplo.Filtro\bin\Debug\System.Data.SQLite.dll
+C:\Users\WilmarArias\source\repos\Ejemplos\Ejemplo.Filtro\bin\Debug\Dapper.xml
+C:\Users\WilmarArias\source\repos\Ejemplos\Ejemplo.Filtro\bin\Debug\System.Data.SQLite.xml
+C:\Users\WilmarArias\source\repos\Ejemplos\Ejemplo.Filtro\obj\Debug\Ejemplo.Filtro.csprojAssemblyReference.cache
+C:\Users\WilmarArias\source\repos\Ejemplos\Ejemplo.Filtro\obj\Debug\Ejemplo.Filtro.Form1.resources
+C:\Users\WilmarArias\source\repos\Ejemplos\Ejemplo.Filtro\obj\Debug\Ejemplo.Filtro.Properties.Resources.resources
+C:\Users\WilmarArias\source\repos\Ejemplos\Ejemplo.Filtro\obj\Debug\Ejemplo.Filtro.csproj.GenerateResource.cache
+C:\Users\WilmarArias\source\repos\Ejemplos\Ejemplo.Filtro\obj\Debug\Ejemplo.Filtro.csproj.CoreCompileInputs.cache
+C:\Users\WilmarArias\source\repos\Ejemplos\Ejemplo.Filtro\obj\Debug\Ejemplo.Filtro.csproj.CopyComplete
+C:\Users\WilmarArias\source\repos\Ejemplos\Ejemplo.Filtro\obj\Debug\Ejemplo.Filtro.exe
+C:\Users\WilmarArias\source\repos\Ejemplos\Ejemplo.Filtro\obj\Debug\Ejemplo.Filtro.pdb
